@@ -10,7 +10,7 @@
 ### &nbsp; About Me
 
  &nbsp; &nbsp; :man: &nbsp; Pronouns: He/Him  \
- &nbsp; &nbsp; :technologist: &nbsp; Work: Techincal Lead at [Pluralsight](https://pluralsight.com) \
+ &nbsp; &nbsp; :technologist: &nbsp; Work: Technical Lead at [Pluralsight](https://pluralsight.com) \
  &nbsp; &nbsp; :books: &nbsp; Reading: Accelerate: The Science of Lean Software and DevOps \
  &nbsp; &nbsp; :house_with_garden: &nbsp; Location: Denver, CO
 
