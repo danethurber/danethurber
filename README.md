@@ -10,9 +10,8 @@
 ### &nbsp; About Me
 
  &nbsp; &nbsp; :man: &nbsp; Pronouns: He/Him  \
- &nbsp; &nbsp; :technologist: &nbsp; Work: Platform Engineer at [Pluralsight](https://pluralsight.com) \
- &nbsp; &nbsp; :school_satchel: &nbsp; Studying: IAAP CPACC and WAS a11y certifications\
- &nbsp; &nbsp; :books: &nbsp; Reading: [The Art of PostgreSQL](https://theartofpostgresql.com/) \
+ &nbsp; &nbsp; :technologist: &nbsp; Work: Techincal Lead at [Pluralsight](https://pluralsight.com) \
+ &nbsp; &nbsp; :books: &nbsp; Reading: Accelerate: The Science of Lean Software and DevOps \
  &nbsp; &nbsp; :house_with_garden: &nbsp; Location: Denver, CO
 
 <br />
