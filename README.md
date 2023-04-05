@@ -10,7 +10,7 @@
 ### &nbsp; About Me
 
  &nbsp; &nbsp; :man: &nbsp; Pronouns: He/Him  \
- &nbsp; &nbsp; :technologist: &nbsp; Work: Founding Engineering at [Matterbeam](https://matterbeam.com) \
+ &nbsp; &nbsp; :technologist: &nbsp; Work: Founding Engineer at [Matterbeam](https://matterbeam.com) \
  &nbsp; &nbsp; :house_with_garden: &nbsp; Location: Denver, CO
 
 <br />
