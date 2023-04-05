@@ -35,8 +35,4 @@
   <a href="https://www.linkedin.com/in/danethurber/">
     <img align="left" alt="Dane's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-
-  <a href="mailto:dane.thurber+github@gmail.com">
-    <img align="left" alt="Dane's Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
 </p>
