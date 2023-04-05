@@ -10,8 +10,7 @@
 ### &nbsp; About Me
 
  &nbsp; &nbsp; :man: &nbsp; Pronouns: He/Him  \
- &nbsp; &nbsp; :technologist: &nbsp; Work: Technical Lead at [Pluralsight](https://pluralsight.com) \
- &nbsp; &nbsp; :books: &nbsp; Reading: Accelerate: The Science of Lean Software and DevOps \
+ &nbsp; &nbsp; :technologist: &nbsp; Work: Founding Engineering at [Matterbeam](https://matterbeam.com) \
  &nbsp; &nbsp; :house_with_garden: &nbsp; Location: Denver, CO
 
 <br />
@@ -20,7 +19,6 @@
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square&link=)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=111&logoColor=AAA&style=flat-square&link=)
 ![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=nodejs&color=111&logoColor=AAA&style=flat-square&link=)
-![postgres](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgres&color=111&logoColor=AAA&style=flat-square&link=)
 ![html](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=111&logoColor=AAA&style=flat-square&link=)
 ![css](https://img.shields.io/static/v1?logo=css3&label=&message=css&color=111&logoColor=AAA&style=flat-square&link=)
 ![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=111&logoColor=AAA&style=flat-square&link=)
@@ -30,8 +28,6 @@
 ![apple](https://img.shields.io/static/v1?logo=apple&label=&message=apple&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 
 ---
 
