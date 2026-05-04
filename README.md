@@ -1,11 +1,7 @@
-```bash
-$ whoami
-dane thurber, senior full-stack engineer in denver
-
-$ now
-founding eng @ matterbeam · building pyre
-
-open to senior, staff, and founding-engineer roles.
+```yaml
+whoami: dane thurber, senior full-stack engineer in denver
+now:    founding eng @ matterbeam · building pyre
+open:   senior, staff, and founding-engineer roles
 ```
 
 #### / focus
