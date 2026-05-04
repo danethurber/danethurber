@@ -17,7 +17,7 @@ open to senior, staff, and founding-engineer roles.
 ## stack
 
 ```
-languages   typescript · python · lua · sql
+languages   typescript · python · sql
 frontend    react · vite · tailwind · shadcn · turborepo
 backend     fastapi · postgres · redis · sqlalchemy · alembic
 cloud       aws · cdk · lambda · s3 · cloudfront
