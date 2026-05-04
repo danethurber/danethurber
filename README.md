@@ -68,23 +68,23 @@ npx danethurber
 ```
 
 <details>
-<summary>preview</summary>
+<summary>card preview</summary>
 
 ```
 ╭───────────────────────────────────────────────────────╮
 │                                                       │
-│   dane thurber                                        │
-│   senior full-stack engineer · denver, co             │
+│   Dane Thurber                                        │
+│   Senior full-stack engineer · Denver, CO             │
 │                                                       │
-│   now    founding eng @ matterbeam                    │
-│          building pyre · socialpyre.com               │
+│   Now    Founding Eng @ Matterbeam                    │
+│          Building Pyre · socialpyre.com               │
 │                                                       │
-│   open   senior, staff, and founding-engineer roles   │
+│   Open   Senior, staff, and founding-engineer roles   │
 │                                                       │
-│   web    socialpyre.com                               │
-│   in     linkedin.com/in/danethurber                  │
-│   mail   dane.thurber@gmail.com                       │
-│   gh     github.com/danethurber                       │
+│   Web    socialpyre.com                               │
+│   In     linkedin.com/in/danethurber                  │
+│   Mail   dane.thurber@gmail.com                       │
+│   GH     github.com/danethurber                       │
 │                                                       │
 ╰───────────────────────────────────────────────────────╯
 ```
