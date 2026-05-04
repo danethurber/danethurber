@@ -1,4 +1,4 @@
-```
+```bash
 $ whoami
 dane thurber, senior full-stack engineer in denver
 
@@ -8,23 +8,29 @@ founding eng @ matterbeam · building pyre
 open to senior, staff, and founding-engineer roles.
 ```
 
-## now
+#### $ focus
 
-**[Matterbeam](https://matterbeam.com)**: founding engineer at the data-agility platform.
+**product development**: end-to-end ownership across product, design, code, and infra. the seam between thoughtful ux, well-shaped apis, and infrastructure that gets out of the way.
 
-**[Pyre](https://socialpyre.com)**: multi-tenant SaaS for tattoo studios. First product surface is social-media management for Instagram and TikTok. Solo build: product, design, full-stack code, AWS infrastructure.
+**design systems**: shared component libraries that earn their abstractions. variant grammar, accessibility defaults, and what should and shouldn't ship as a primitive.
 
-## stack
+#### $ now
+
+**[matterbeam](https://matterbeam.com)**: founding engineer. designed the architecture and shipped v1. a streaming data movement layer: ingest once, transform in transit, branch to any destination.
+
+**[pyre](https://socialpyre.com)**: founder; soloing the whole stack. multi-tenant saas for tattoo studios; first surface is social-media management for instagram and tiktok.
+
+#### $ stack
 
 ```
-languages   typescript · python · sql
+languages   html · css · typescript · python · sql
 frontend    react · vite · tailwind · shadcn · turborepo
 backend     fastapi · postgres · redis · sqlalchemy · alembic
 cloud       aws · cdk · lambda · s3 · cloudfront
 tooling     pnpm · uv · ruff · ty · github actions
 ```
 
-## elsewhere
+#### $ elsewhere
 
 ```
 linkedin   linkedin.com/in/danethurber
@@ -40,18 +46,18 @@ web        socialpyre.com
 ```
 ╭───────────────────────────────────────────────────────╮
 │                                                       │
-│   Dane Thurber                                        │
-│   Senior full-stack engineer · Denver, CO             │
+│   dane thurber                                        │
+│   senior full-stack engineer · denver, co             │
 │                                                       │
-│   Now    Founding Eng @ Matterbeam                    │
-│          Building Pyre · socialpyre.com               │
+│   now    founding eng @ matterbeam                    │
+│          building pyre · socialpyre.com               │
 │                                                       │
-│   Open   Senior, staff, and founding-engineer roles   │
+│   open   senior, staff, and founding-engineer roles   │
 │                                                       │
-│   Web    socialpyre.com                               │
-│   In     linkedin.com/in/danethurber                  │
-│   Mail   dane.thurber@gmail.com                       │
-│   GH     github.com/danethurber                       │
+│   web    socialpyre.com                               │
+│   in     linkedin.com/in/danethurber                  │
+│   mail   dane.thurber@gmail.com                       │
+│   gh     github.com/danethurber                       │
 │                                                       │
 ╰───────────────────────────────────────────────────────╯
 ```
