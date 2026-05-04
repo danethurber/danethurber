@@ -8,7 +8,7 @@ founding eng @ matterbeam · building pyre
 open to senior, staff, and founding-engineer roles.
 ```
 
-#### $ focus
+#### / focus
 
 ```yaml
 product development: |
@@ -22,7 +22,7 @@ design systems: |
   and shouldn't ship as a primitive.
 ```
 
-#### $ now
+#### / now
 
 ```yaml
 matterbeam:
@@ -36,7 +36,7 @@ pyre:
   product: multi-tenant saas for tattoo studios. first surface is social-media management for instagram and tiktok.
 ```
 
-#### $ stack
+#### / stack
 
 ```yaml
 languages: html · css · typescript · python · sql
@@ -46,7 +46,7 @@ cloud:     aws · cdk · lambda · s3 · cloudfront
 tooling:   pnpm · uv · ruff · ty · github actions
 ```
 
-#### $ elsewhere
+#### / elsewhere
 
 ```yaml
 linkedin: linkedin.com/in/danethurber
@@ -54,7 +54,7 @@ email:    dane.thurber@gmail.com
 web:      socialpyre.com
 ```
 
-#### $ card
+#### / card
 
 ```sh
 npx danethurber
