@@ -1,8 +1,27 @@
-```yaml
-whoami: dane thurber, senior full-stack engineer in denver
-now:    founding eng @ matterbeam · building pyre
-open:   senior, staff, and founding-engineer roles
-stack:  html · css · a11y · typescript · react · python · fastapi · aws
+```sh
+$ npx danethurber
+```
+
+```
+╭───────────────────────────────────────────────────────╮
+│                                                       │
+│   Dane Thurber                                        │
+│   Senior full-stack engineer · Denver, CO             │
+│                                                       │
+│   Now    Founding Eng @ Matterbeam                    │
+│          Building Pyre · socialpyre.com               │
+│                                                       │
+│   Stack  HTML · CSS · A11y · TypeScript · React       │
+│          Python · FastAPI · AWS                       │
+│                                                       │
+│   Open   Senior, staff, and founding-engineer roles   │
+│                                                       │
+│   Web    socialpyre.com                               │
+│   In     linkedin.com/in/danethurber                  │
+│   Mail   dane.thurber@gmail.com                       │
+│   GH     github.com/danethurber                       │
+│                                                       │
+╰───────────────────────────────────────────────────────╯
 ```
 
 #### / focus
@@ -69,33 +88,3 @@ linkedin: linkedin.com/in/danethurber
 email:    dane.thurber@gmail.com
 web:      socialpyre.com
 ```
-
-#### / card
-
-```sh
-npx danethurber
-```
-
-<details>
-<summary>card preview</summary>
-
-```
-╭───────────────────────────────────────────────────────╮
-│                                                       │
-│   Dane Thurber                                        │
-│   Senior full-stack engineer · Denver, CO             │
-│                                                       │
-│   Now    Founding Eng @ Matterbeam                    │
-│          Building Pyre · socialpyre.com               │
-│                                                       │
-│   Open   Senior, staff, and founding-engineer roles   │
-│                                                       │
-│   Web    socialpyre.com                               │
-│   In     linkedin.com/in/danethurber                  │
-│   Mail   dane.thurber@gmail.com                       │
-│   GH     github.com/danethurber                       │
-│                                                       │
-╰───────────────────────────────────────────────────────╯
-```
-
-</details>
