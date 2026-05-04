@@ -33,6 +33,12 @@ matterbeam:
   product: |
     a streaming data movement layer.
     ingest once, transform in transit, branch to any destination.
+  scope:
+    - product direction and ux
+    - frontend
+    - api and core services
+    - dlt ingestion pipelines
+    - cli and operational tooling
 
 pyre:
   url: socialpyre.com
