@@ -1,11 +1,7 @@
-```sh
-$ npx danethurber
-```
-
 ```
 ╭─────────────────────────────────────────────────────────────────────────────╮
 │                                                                             │
-│   Dane Thurber                                                              │
+│   Dane Thurber                                          $ npx danethurber   │
 │   Senior full-stack engineer · Denver, CO                                   │
 │                                                                             │
 │   Now     Founding Eng @ Matterbeam · Building Pyre · socialpyre.com        │
