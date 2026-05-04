@@ -27,13 +27,20 @@ design systems: |
 ```yaml
 matterbeam:
   url: matterbeam.com
-  role: founding engineer. designed the architecture and shipped v1.
-  product: a streaming data movement layer. ingest once, transform in transit, branch to any destination.
+  role: |
+    founding engineer.
+    designed the architecture and shipped v1.
+  product: |
+    a streaming data movement layer.
+    ingest once, transform in transit, branch to any destination.
 
 pyre:
   url: socialpyre.com
-  role: founder; soloing the whole stack.
-  product: multi-tenant saas for tattoo studios. first surface is social-media management for instagram and tiktok.
+  role: |
+    founder; soloing the whole stack.
+  product: |
+    multi-tenant saas for tattoo studios.
+    first surface is social-media management for instagram and tiktok.
 ```
 
 #### / stack
