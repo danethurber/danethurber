@@ -1,38 +1,59 @@
-<h1 align="center">Hello! I'm Dane 😜</h1>
+```
+$ whoami
+dane thurber, senior full-stack engineer in denver
 
+$ now
+founding eng @ matterbeam · building pyre
 
-<p align="center">
-  Fullstack developer. Focused on building engaging user-centered experiences.
-</p>
+open to senior, staff, and founding-engineer roles.
+```
 
----
+## now
 
-### &nbsp; About Me
+**[Matterbeam](https://matterbeam.com)**: founding engineer at the data-agility platform.
 
- &nbsp; &nbsp; :man: &nbsp; Pronouns: He/Him  \
- &nbsp; &nbsp; :technologist: &nbsp; Work: Founding Engineer at [Matterbeam](https://matterbeam.com) \
- &nbsp; &nbsp; :house_with_garden: &nbsp; Location: Denver, CO
+**[Pyre](https://socialpyre.com)**: multi-tenant SaaS for tattoo studios. First product surface is social-media management for Instagram and TikTok. Solo build: product, design, full-stack code, AWS infrastructure.
 
-<br />
+## stack
 
-![skills](https://img.shields.io/static/v1?label=&message=skills:&color=555&style=flat-square)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=111&logoColor=AAA&style=flat-square&link=)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=111&logoColor=AAA&style=flat-square&link=)
-![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=nodejs&color=111&logoColor=AAA&style=flat-square&link=)
-![html](https://img.shields.io/static/v1?logo=html5&label=&message=html&color=111&logoColor=AAA&style=flat-square&link=)
-![css](https://img.shields.io/static/v1?logo=css3&label=&message=css&color=111&logoColor=AAA&style=flat-square&link=)
-![react](https://img.shields.io/static/v1?logo=react&label=&message=react&color=111&logoColor=AAA&style=flat-square&link=)
-![graphql](https://img.shields.io/static/v1?logo=graphql&label=&message=graphql&color=111&logoColor=AAA&style=flat-square&link=)
+```
+languages   typescript · python · lua · sql
+frontend    react · vite · tailwind · shadcn · turborepo
+backend     fastapi · postgres · redis · sqlalchemy · alembic
+cloud       aws · cdk · lambda · s3 · cloudfront
+tooling     pnpm · uv · ruff · ty · github actions
+```
 
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
-![apple](https://img.shields.io/static/v1?logo=apple&label=&message=apple&color=111&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+## elsewhere
 
----
+```
+linkedin   linkedin.com/in/danethurber
+email      dane.thurber@gmail.com
+web        socialpyre.com
+```
 
-<p>
-  <a href="https://www.linkedin.com/in/danethurber/">
-    <img align="left" alt="Dane's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
+> or run `npx danethurber` for the short version.
+
+<details>
+<summary>preview the card</summary>
+
+```
+╭───────────────────────────────────────────────────────╮
+│                                                       │
+│   Dane Thurber                                        │
+│   Senior full-stack engineer · Denver, CO             │
+│                                                       │
+│   Now    Founding Eng @ Matterbeam                    │
+│          Building Pyre · socialpyre.com               │
+│                                                       │
+│   Open   Senior, staff, and founding-engineer roles   │
+│                                                       │
+│   Web    socialpyre.com                               │
+│   In     linkedin.com/in/danethurber                  │
+│   Mail   dane.thurber@gmail.com                       │
+│   GH     github.com/danethurber                       │
+│                                                       │
+╰───────────────────────────────────────────────────────╯
+```
+
+</details>
