@@ -2,6 +2,7 @@
 whoami: dane thurber, senior full-stack engineer in denver
 now:    founding eng @ matterbeam · building pyre
 open:   senior, staff, and founding-engineer roles
+stack:  typescript · python · react · fastapi · aws · postgres
 ```
 
 #### / focus
@@ -29,6 +30,7 @@ matterbeam:
   product: |
     a streaming data movement layer.
     ingest once, transform in transit, branch to any destination.
+  stack: typescript · react · python · fastapi · aws · postgres
   scope:
     - product direction and ux
     - frontend
@@ -43,22 +45,13 @@ pyre:
   product: |
     multi-tenant saas for tattoo studios.
     first surface is social-media management for instagram and tiktok.
+  stack: react · vite · tailwind · shadcn · python · fastapi · postgres · aws · cdk
   scope:
     - brand, product direction, and ux
     - design system (shadcn-based)
     - frontend (web app and marketing site)
     - api, session bff, and social oauth integrations
     - aws infrastructure (cdk)
-```
-
-#### / stack
-
-```yaml
-languages: html · css · typescript · python · sql
-frontend:  react · vite · tailwind · shadcn · turborepo
-backend:   fastapi · postgres · redis · sqlalchemy · alembic
-cloud:     aws · cdk · lambda · s3 · cloudfront
-tooling:   pnpm · uv · ruff · ty · github actions
 ```
 
 #### / elsewhere
