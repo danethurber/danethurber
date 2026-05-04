@@ -47,6 +47,12 @@ pyre:
   product: |
     multi-tenant saas for tattoo studios.
     first surface is social-media management for instagram and tiktok.
+  scope:
+    - brand, product direction, and ux
+    - design system (shadcn-based)
+    - frontend (web app and marketing site)
+    - api, session bff, and social oauth integrations
+    - aws infrastructure (cdk)
 ```
 
 #### / stack
