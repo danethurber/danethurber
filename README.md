@@ -2,9 +2,9 @@
 ╭─────────────────────────────────────────────────────────────────────────────╮
 │                                                                             │
 │   Dane Thurber                                          $ npx danethurber   │
-│   Senior full-stack engineer · Denver, CO                                   │
+│   Senior Full-Stack Engineer · Denver, CO                                   │
 │                                                                             │
-│   Now     Founding Eng @ Matterbeam · Building Pyre · socialpyre.com        │
+│   Now     Founding Eng @ Matterbeam · Building Pyre(socialpyre.com)         │
 │                                                                             │
 │   Stack   HTML · CSS · A11y · TypeScript · React · Python · FastAPI · AWS   │
 │                                                                             │
@@ -33,9 +33,7 @@ design systems: |
 ```yaml
 matterbeam:
   url: matterbeam.com
-  role: |
-    founding engineer.
-    designed the architecture and shipped v1.
+  role: founding engineer.
   product: |
     a streaming data movement layer.
     ingest once, transform in transit, branch to any destination.
@@ -53,22 +51,19 @@ matterbeam:
 
 pyre:
   url: socialpyre.com
-  role: |
-    founder; soloing the whole stack.
+  role: founder
   product: |
     multi-tenant saas for tattoo studios.
     first surface is social-media management for instagram and tiktok.
   stack:
-    frontend: html · css · a11y · typescript · react · nextjs · hotwire · shadcn
+    frontend: html · css · a11y · typescript · hotwire · tailwind
     backend:  python · fastapi · postgres
     cloud:    aws · cdk · lambda · ec2
     data:     dlt · dbt
   scope:
     - brand, product direction, and ux
-    - design system (shadcn-based)
-    - frontend (web app and marketing site)
-    - api, session bff, and social oauth integrations
-    - aws infrastructure (cdk)
+    - full stack
+    - aws / serverless
 ```
 
 #### / elsewhere
